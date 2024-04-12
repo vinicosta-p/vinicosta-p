@@ -8,7 +8,7 @@
 - ♨  Sou Dev Backend
 - 🔭 Atualmente eu trabalho como Freelancer
 - 🌱 Cientista da Computação @ [Unisantos](https://www.unisantos.br/)
-- 🌐 Apaixonado por desenvolvimento web
-- 💡  Amo um bom desafio
+- 🌐 Amante de desenvolvimento web
+- 💡 Buscando sempre me desafiar
 ## Minhas Linguagens
 ![Vini Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicosta-p&theme=tokyonight&layout=compact)
